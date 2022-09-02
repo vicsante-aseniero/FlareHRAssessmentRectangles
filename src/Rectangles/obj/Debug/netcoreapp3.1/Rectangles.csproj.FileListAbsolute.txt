@@ -1,0 +1,14 @@
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\bin\Debug\netcoreapp3.1\Rectangles.exe
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\bin\Debug\netcoreapp3.1\Rectangles.deps.json
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\bin\Debug\netcoreapp3.1\Rectangles.runtimeconfig.json
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\bin\Debug\netcoreapp3.1\Rectangles.runtimeconfig.dev.json
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\bin\Debug\netcoreapp3.1\Rectangles.dll
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\bin\Debug\netcoreapp3.1\Rectangles.pdb
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\obj\Debug\netcoreapp3.1\Rectangles.csproj.AssemblyReference.cache
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\obj\Debug\netcoreapp3.1\Rectangles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\obj\Debug\netcoreapp3.1\Rectangles.AssemblyInfoInputs.cache
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\obj\Debug\netcoreapp3.1\Rectangles.AssemblyInfo.cs
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\obj\Debug\netcoreapp3.1\Rectangles.csproj.CoreCompileInputs.cache
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\obj\Debug\netcoreapp3.1\Rectangles.dll
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\obj\Debug\netcoreapp3.1\Rectangles.pdb
+D:\Projects\_exams\FlareHR\Rectangles\src\rectangles\obj\Debug\netcoreapp3.1\Rectangles.genruntimeconfig.cache
